@@ -1,4 +1,4 @@
-# PPO-Based-Analysis-using-Semantic-and-AOI-Information--ML
+
 # PPO-Based Semantic and Age-of-Information-Aware Scheduling for Massive IoT Networks
 
 ## 1. Problem statement
